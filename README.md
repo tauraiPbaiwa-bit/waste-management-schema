@@ -127,7 +127,7 @@ waste-scenario tasks.pdf
 
 Refer to this document for the original project requirements and task specifications.
 
-Technologies
+## Technologies
 Database: PostgreSQL
 SQL: PostgreSQL SQL
 Database Management: pgAdmin / psql
