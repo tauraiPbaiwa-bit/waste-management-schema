@@ -1,0 +1,1 @@
+﻿# waste-management-schema
