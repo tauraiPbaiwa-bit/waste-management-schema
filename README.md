@@ -5,7 +5,7 @@ This project is a data warehouse design and implementation project for a solid w
 
 The company collects and recycles solid waste using hundreds of trucks of different types. The objective of the project is to design and implement a data warehouse that can organize the company's waste collection data and support analytical reporting.
 
-Business Scenario
+## Business Scenario
 
 You are a data engineer hired by a solid waste management company. The company collects and recycles solid waste across major cities in the country of Brazil.
 
@@ -22,7 +22,7 @@ Total waste collected per truck type per station per city
 
 The purpose of this project is to apply data warehousing concepts to design and implement a database capable of supporting these analytical requirements.
 
-Project Objectives
+## Project Objectives
 
 The main objectives are to:
 
@@ -86,7 +86,7 @@ task9_12.sql
 
 Contains the SQL solutions for Tasks 9–12.
 
-PostgreSQL Only
+## PostgreSQL Only
 
 ⚠️ IMPORTANT: ALL SQL CODE IN THIS REPOSITORY MUST BE RUN IN POSTGRESQL.
 
@@ -100,7 +100,7 @@ Another PostgreSQL-compatible SQL client
 
 Do not assume that the SQL scripts will work without modification in MySQL, Microsoft SQL Server, Oracle, SQLite, or other database systems.
 
-Recommended Setup
+## Recommended Setup
 Install PostgreSQL.
 Open pgAdmin or another PostgreSQL client.
 Create a PostgreSQL database for the project.
