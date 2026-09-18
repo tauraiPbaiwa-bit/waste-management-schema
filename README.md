@@ -1,4 +1,4 @@
-﻿Waste Management Data Warehouse
+﻿**Waste Management Data Warehouse**
 Overview
 
 This project is a data warehouse design and implementation project for a solid waste management company operating across major cities in Brazil.
